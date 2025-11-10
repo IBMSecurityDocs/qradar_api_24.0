@@ -1,5 +1,6 @@
 # REST API Version 24.0 references
 
+*  [What's new in REST API Version 24.0](c_rest_api_whats_new_240.html)
 *  [access endpoints](c_rest_api_version240_access_intro.html)
     *  [GET /access/login\_attempts](24.0--access-login_attempts-GET.html)
 *  [analytics endpoints](c_rest_api_version240_analytics_intro.html)
